@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing,GCP,AWS**
 
-- 💬 Ask me about **HTML,CSS,JS,React,Networking,Cybersecurity,Cloud,AWS,GCP**
+- 💬 Ask me about **Javascript,React,CSS,Networking,Cybersecurity,Cloud,AWS,GCP**
 
 - 📫 How to reach me **sagarguney@gmail.com**
 
