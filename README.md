@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bookMySlot](https://github.com/SagarG2003/bookMySlot)
 
-- 🌱 I’m currently learning **Cloud Computing,GCP,AWS**
+- 🌱 I’m currently learning **DevOps, AWS, Cloud Computing**
 
 - 💬 Ask me about **Javascript,React,CSS,Networking,Cybersecurity,Cloud,AWS,GCP**
 
