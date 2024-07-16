@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Guney</h1>
 <h3 align="center">Frontend Development | Cloud Computing | CyberSec </h3>
 
-- 🔭 I’m currently working on [bookMySlot](https://github.com/SagarG2003/bookMySlot)
+- 🔭 I’m currently working on [NextJs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app) Project.
 
 - 🌱 I’m currently learning **DevOps, AWS, Cloud Computing**
 
