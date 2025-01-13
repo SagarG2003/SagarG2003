@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Guney</h1>
-<h3 align="center">Frontend Development | Cloud Computing | CyberSec </h3>
+<h3 align="center">MERN Stack Devloper | Cloud Computing | CyberSec </h3>
 
 - 🔭 I’m currently working on [NextJs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app) Project.
 
